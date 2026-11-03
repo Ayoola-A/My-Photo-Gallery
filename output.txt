@@ -1,0 +1,48 @@
+--- Grade Calculator ---
+85 = A
+65 = B
+55 = C
+40 = F
+105 = Invalid score
+
+--- Guessing Game ---
+Attempt 1: guessed 3
+Too low
+Attempt 2: guessed 9
+Too high
+Attempt 3: guessed 5
+Too low
+Attempt 4: guessed 7
+Correct! Guessed in 4 attempts
+
+--- FizzBuzz to 30 ---
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+16
+17
+Fizz
+19
+Buzz
+Fizz
+22
+23
+Fizz
+Buzz
+26
+Fizz
+28
+29
+FizzBuzz
